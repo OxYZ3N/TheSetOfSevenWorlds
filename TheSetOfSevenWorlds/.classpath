@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="com/oxyzen/framework/FileIO_OLD.java|com/oxyzen/framework/Game_OLD.java|com/oxyzen/framework/Graphics_OLD.java|com/oxyzen/framework/Pixmap_OLD.java|com/oxyzen/framework/Screen_OLD.java|com/oxyzen/framework/implemente/AndroidFastRenderView_OLD.java|com/oxyzen/framework/implemente/AndroidFileIO_OLD.java|com/oxyzen/framework/implemente/AndroidGraphics_OLD.java|com/oxyzen/framework/implemente/AndroidPixmap_OLD.java|com/oxyzen/thesetofsevenworlds/Assets_OLD.java|com/oxyzen/thesetofsevenworlds/LoadingScreen_OLD.java|com/oxyzen/thesetofsevenworlds/MainMenuScreen_OLD.java|com/oxyzen/thesetofsevenworlds/Settings_OLD.java|com/oxyzen/framework/implemente/AndroidGame_OLD2.java|com/oxyzen/thesetofsevenworlds/MyCounter.java|com/oxyzen/thesetofsevenworlds/SauvegardeGameScreen.java|com/oxyzen/thesetofsevenworlds/Reminder.java|com/oxyzen/thesetofsevenworlds/AsyncActivity.java|com/oxyzen/thesetofsevenworlds/Programs.java" kind="src" path="src"/>
+	<classpathentry kind="src" path="gen"/>
+	<classpathentry kind="src" path="tst"/>
+	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.DEPENDENCIES"/>
+	<classpathentry kind="output" path="bin/classes"/>
+</classpath>
